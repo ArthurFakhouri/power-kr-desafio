@@ -1,0 +1,47 @@
+export const metaChartData = [
+    {
+      name: '2004/05',
+      situacaoGlobal: 920,
+      mediaPrevista: 520,
+      mediaRealizada: 1000,
+      saldo: 450,
+      meta: 180,
+      acumulado: 605,
+    },
+    {
+      name: '2004/06',
+      situacaoGlobal: 1100,
+      mediaPrevista: 600,
+      mediaRealizada: 1260,
+      saldo: 280,
+      meta: 120,
+      acumulado: 685,
+    },
+    {
+      name: '2004/07',
+      situacaoGlobal: 1180,
+      mediaPrevista: 590,
+      mediaRealizada: 800,
+      saldo: 400,
+      meta: 160,
+      acumulado: 610,
+    },
+    {
+      name: '2004/08',
+      situacaoGlobal: 1100,
+      mediaPrevista: 600,
+      mediaRealizada: 980,
+      saldo: 200,
+      meta: 120,
+      acumulado: 600,
+    },
+    {
+      name: '2004/09',
+      situacaoGlobal: 690,
+      mediaPrevista: 610,
+      mediaRealizada: 1020,
+      saldo: 380,
+      meta: 110,
+      acumulado: 580,
+    }
+  ];

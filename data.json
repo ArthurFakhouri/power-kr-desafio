@@ -1,0 +1,217 @@
+{
+    "chart": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "department": "Diretoria",
+            "image": "./src/assets/diretoria.png",
+            "children": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "valueInPercentage": 89,
+            "metas": [
+                {
+                    "id": 1,
+                    "title": "Meta 01",
+                    "aes": [
+                        63,
+                        84,
+                        23
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Meta 02",
+                    "aes": [
+                        43,
+                        65,
+                        80
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Rose da Silva",
+            "department": "Comercial",
+            "image": "./src/assets/comercial.png",
+            "children": [
+                6,
+                7
+            ],
+            "valueInPercentage": 63,
+            "metas": [
+                {
+                    "id": 3,
+                    "title": "Meta 01",
+                    "aes": [
+                        33,
+                        66,
+                        53
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Meta 02",
+                    "aes": [
+                        84,
+                        34,
+                        77
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Maria Souza",
+            "department": "Administrativo",
+            "image": "./src/assets/administrativo.png",
+            "children": [],
+            "valueInPercentage": 74,
+            "metas": [
+                {
+                    "id": 5,
+                    "title": "Meta 01",
+                    "aes": [
+                        63,
+                        64,
+                        62
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Meta 02",
+                    "aes": [
+                        74,
+                        78,
+                        75
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Jane Doe",
+            "department": "Financeiro",
+            "image": "./src/assets/financeiro.png",
+            "children": [],
+            "valueInPercentage": 85,
+            "metas": [
+                {
+                    "id": 7,
+                    "title": "Meta 01",
+                    "aes": [
+                        60,
+                        66,
+                        80
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Meta 02",
+                    "aes": [
+                        70,
+                        75,
+                        80
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "John Smith",
+            "department": "TI",
+            "image": "./src/assets/ti.png",
+            "children": [],
+            "valueInPercentage": 90,
+            "metas": [
+                {
+                    "id": 9,
+                    "title": "Meta 01",
+                    "aes": [
+                        80,
+                        80,
+                        80
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Meta 02",
+                    "aes": [
+                        80,
+                        80,
+                        80
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Leticia Santos",
+            "department": "Equipe Azul",
+            "image": "./src/assets/equipeazul.png",
+            "children": [],
+            "valueInPercentage": 40,
+            "metas": [
+                {
+                    "id": 11,
+                    "title": "Meta 01",
+                    "aes": [
+                        79,
+                        96,
+                        85
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "Meta 02",
+                    "aes": [
+                        71,
+                        76,
+                        80
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Josh James",
+            "department": "Equipe Amarelo",
+            "image": "./src/assets/equipeamarelo.png",
+            "children": [],
+            "valueInPercentage": 30,
+            "metas": [
+                {
+                    "id": 13,
+                    "title": "Meta 01",
+                    "aes": [
+                        79,
+                        96,
+                        85
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "Meta 02",
+                    "aes": [
+                        71,
+                        76,
+                        80
+                    ]
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "goal": 5000000,
+        "accumulated": 4239000,
+        "balance": 761000,
+        "situation": 84.7,
+        "performedAvg": 416600000,
+        "expectedAvg": 416600000
+    }
+}
